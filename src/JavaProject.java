@@ -1,9 +1,12 @@
-import com.opencsv.exceptions.CsvValidationException;
+//import com.opencsv.exceptions.CsvValidationException;
 
 import java.util.LinkedList;
 
 public class JavaProject {
-    public static void main(String[] args) throws CsvValidationException {
+//    public static void main() throws CsvValidationException {
+    }
+
+//    public static void main(String[] args) throws CsvValidationException {
         String mem;
         MembershipManagement mm = new MembershipManagement();
         FileHandler fh = new FileHandler();
